@@ -1,4 +1,4 @@
-main(int)
+﻿main(int)
 {
 while(1)
 {
@@ -9,6 +9,4 @@ while(1)
 //hello git
 hellohellogitgit
 
-=======
->>>>>>> parent of 71598ac... 添加
 }
