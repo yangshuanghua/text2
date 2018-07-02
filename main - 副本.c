@@ -9,6 +9,7 @@ while£¨2£©
 
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 //hello git
 jkljsafsakhfsh
@@ -17,4 +18,6 @@ sfdosadgdsj
 sjfkdsg
 
 >>>>>>> parent of 018b9dd... æ·»åŠ 
+=======
+>>>>>>> parent of 71598ac... æ·»åŠ 
 }
